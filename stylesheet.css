@@ -1,0 +1,19 @@
+/* body全体での表示形式を指定（仮） */
+body{
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+}
+
+/* HTML全体に適用、以下はbox-sizeについてのもの
+*{
+  box-sizing: border-box;
+}
+*/
+
+/* container全体での表示形式を指定（仮） */
+.container{
+  max-width: 1170px;
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
